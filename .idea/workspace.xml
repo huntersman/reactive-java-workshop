@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="684c8c37-4a27-4f62-9e94-e17cc2f8eb5e" name="Changes" comment="Upgrade reactor-core version to 3.5.4">
+    <list default="true" id="684c8c37-4a27-4f62-9e94-e17cc2f8eb5e" name="Changes" comment="Exercise2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,26 +43,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "go.import.settings.migrated": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="io.javabrains.reactiveworkshop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise2">
+  <component name="RunManager" selected="Application.Exercise3">
     <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise1" />
       <module name="reactive-example" />
@@ -89,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise7" />
+    <configuration name="Exercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise3" />
       <module name="reactive-example" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise8" />
+    <configuration name="Exercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise7" />
       <module name="reactive-example" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise3" />
         <item itemvalue="Application.Exercise2" />
         <item itemvalue="Application.Exercise1" />
         <item itemvalue="Application.Exercise7" />
         <item itemvalue="Application.Exercise9" />
-        <item itemvalue="Application.Exercise8" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +146,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650213103534</updated>
-      <workItem from="1694307647032" duration="5232000" />
+      <workItem from="1694307647032" duration="5845000" />
+      <workItem from="1694317648811" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary="Exercise1">
       <created>1694310690608</created>
@@ -162,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694312400275</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Exercise2">
+      <created>1694315000731</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694315000731</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +190,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercise1" />
     <MESSAGE value="Upgrade reactor-core version to 3.5.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upgrade reactor-core version to 3.5.4" />
+    <MESSAGE value="Exercise2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise2" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
