@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="684c8c37-4a27-4f62-9e94-e17cc2f8eb5e" name="Changes" comment="Exercise8">
+    <list default="true" id="684c8c37-4a27-4f62-9e94-e17cc2f8eb5e" name="Changes" comment="Exercise9">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <recent name="io.javabrains.reactiveworkshop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise9">
+  <component name="RunManager" selected="Application.Exercise6">
     <configuration name="Exercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise3" />
       <module name="reactive-example" />
@@ -131,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise6" />
         <item itemvalue="Application.Exercise9" />
         <item itemvalue="Application.Exercise8" />
         <item itemvalue="Application.Exercise7" />
         <item itemvalue="Application.Exercise3" />
-        <item itemvalue="Application.Exercise6" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +151,7 @@
       <workItem from="1694351572425" duration="3842000" />
       <workItem from="1694477158228" duration="603000" />
       <workItem from="1694649634669" duration="814000" />
-      <workItem from="1694837921915" duration="5108000" />
+      <workItem from="1694837921915" duration="6557000" />
     </task>
     <task id="LOCAL-00001" summary="Exercise1">
       <created>1694310690608</created>
@@ -210,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694842785277</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Exercise9">
+      <created>1694843723952</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694843723952</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,7 +242,8 @@
     <MESSAGE value="Exercise5" />
     <MESSAGE value="Exercise7" />
     <MESSAGE value="Exercise8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise8" />
+    <MESSAGE value="Exercise9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise9" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
